@@ -12,5 +12,5 @@ Nach zehn Jahren Abwesenheit kehrt Stefan Vollmer, ein Lehrer für Deutsch, Natu
 > Deswegen haben es Knast-Serien viel schwerer, weil so wenig Leute im Knast sind.
 
 
-<img src="https://commons.wikimedia.org/w/index.php?curid=76726629"/>
+<img src="img/bild01"/>
 
