@@ -8,3 +8,6 @@ Nach zehn Jahren Abwesenheit kehrt Stefan Vollmer, ein Lehrer für Deutsch, Natu
 * Vater von Jonas
 * Vater von Frida
 
+> Jeder war in der Schule und kann sich mit dem Thema identifizieren. 
+> Deswegen haben es Knast-Serien viel schwerer, weil so wenig Leute im Knast sind.
+
