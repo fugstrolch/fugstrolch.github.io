@@ -12,5 +12,5 @@ Nach zehn Jahren Abwesenheit kehrt Stefan Vollmer, ein Lehrer für Deutsch, Natu
 > Deswegen haben es Knast-Serien viel schwerer, weil so wenig Leute im Knast sind.
 
 
-<img src="img/bild01"/>
+<img src="https://bilder.wunschliste.de/gfx/pics/Karin-Jessica-Ginkel-Stefan-Hendrik-Duryn-Und-Die-Kleine-Frida-Ann-Sophie-Lochmann-In-Der-Lehrer.jpg"/>
 
